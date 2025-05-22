@@ -3,4 +3,4 @@
 
 ### Screenshots of the result and the code:
 
-![Greeting Page Screenshot](greeting.png.jpg)
+![Greeting Page Screenshot](greeting.png)
