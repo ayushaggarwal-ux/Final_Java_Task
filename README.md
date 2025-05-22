@@ -3,4 +3,4 @@
 
 ### Screenshots of the result and the code:
 
-![Greeting Page Screenshot](https://raw.githubusercontent.com/your-username/your-repo-name/main/greeting.png.jpg)
+![Greeting Page Screenshot](greeting.png.jpg)
